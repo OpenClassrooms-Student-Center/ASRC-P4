@@ -1,6 +1,6 @@
 
 # Prototype Extranet / Intranet  
-*Service Informatique – Mairie de Kaohsiung*
+*Service Informatique – Mairie de Valserac*
 
 ## Contenu
 
@@ -15,8 +15,8 @@ Chaque dossier contient une page `index.html`.
 
 1. Place le dossier `extranet` et le dossier `intranet` dans le dossier `/var/www/` de ton serveur web.
 2. Configure deux virtual hosts sur Apache :
-    - `extranet.kaohsiung.local` → `/var/www/extranet/`
-    - `intranet.kaohsiung.local` → `/var/www/intranet/`
+    - `extranet.valserac.local` → `/var/www/extranet/`
+    - `intranet.valserac.local` → `/var/www/intranet/`
 3. Ouvre les deux sites dans ton navigateur pour vérifier l’affichage.
 
 ## Sécurité
@@ -25,4 +25,4 @@ Chaque dossier contient une page `index.html`.
 
 ---
 
-*Contact : Service Informatique – DSI, Mairie de Kaohsiung*
+*Contact : Service Informatique – DSI, Mairie de Valserac*
